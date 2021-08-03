@@ -1,7 +1,6 @@
-.intro{
+body {
+    background-color: #000000;
+    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: Normal;
-    font-size: 50px;
-    color: white;
-    align-items: centered;
+
 }
